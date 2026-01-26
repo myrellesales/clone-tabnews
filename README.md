@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto para testar tecnologias. 
+
+Projeto para testar tecnologias.
